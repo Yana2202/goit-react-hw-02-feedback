@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  width: 450px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  margin: -225px 0 0 -225px;
+  padding: 10px;
+  background-color: blanchedalmond;
+  box-shadow: 10px 10px 5px orange;
+}
